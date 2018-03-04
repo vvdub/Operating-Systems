@@ -1,0 +1,16 @@
+PROJECT TITLE:              Project 1: UNIX Local Interprocess Communication
+
+PURPOSE OF PROJECT:         File input, pipe, child process, read from pipe, and parent to write to pipe.
+
+VERSION or DATE:            Spring 2018
+                            CSC 4410
+                            Florida Southern College
+                            
+HOW TO START THIS PROJECT:  Open Terminal
+                            Change the directory (cd "directory here") to where the Project1.c and bacon.txt files are
+                            Type: gcc -o "compiled program name here" Project1.c
+                            Type: ./"compiled program name" bacon.txt
+                            Browse text file by either the spacebar or enter key
+                            Finish
+                            
+AUTHORS:                    Dusten Peterson
